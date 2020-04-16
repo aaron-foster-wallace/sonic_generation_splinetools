@@ -19,14 +19,14 @@
 # <pep8-80 compliant>
 
 bl_info = {
-    "name": "Sonic Generations Spline Tools",
+    "name": "Sonic GenerationsTools",
     "author": "Aaron Foster Wallace",
     "version": (1, 0, 0),
     "blender": (2, 80, 0),
     "location": "File > Import-Export > Sonic Gen Splines",
     "description": "Import-Export Sonic Generations Spline files\n Also inside \"#level.ar.00\" files ",
     "warning": "",
-    "wiki_url": "https://twitter.com/AaronFWallace1",
+    "wiki_url": "https://github.com/aaron-foster-wallace/sonic_generation_splinetools/",
     "category": "Import-Export",
 }
 
